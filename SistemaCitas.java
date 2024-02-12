@@ -36,10 +36,8 @@ public class SistemaCitas {
     }
 
     public void crearCita(
-        int idDoctor,
         int idPaciente,
         LocalDateTime fechaYHora
-        Cita cita;
     ) {
         //obtener paciente por id de el arreglo de pacientes 
         try{
@@ -67,7 +65,6 @@ public class SistemaCitas {
     public void relacionarCita(
         int idCita,
         int idDoctor,
-        LocalDateTime fechaYHora
     ) {
         // obtener el id de la cita que se quiere relacionar
         // remplazar el valor nulo de el doctor a un id de doctor
