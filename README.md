@@ -26,7 +26,7 @@ Sigue las instrucciones en la interfaz de usuario para realizar acciones como re
 Créditos
 Este programa fue creado por [Jessica Lilian Lopez Villarreal].
 
-Licencia
+
 
 
 
